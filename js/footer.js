@@ -17,7 +17,7 @@ class MyFooter extends HTMLElement {
 							<ul class="list list-unstyled text-3-5 mb-0">
 								<li class="mb-2"><a href="#">Features</a></li>
 								<li class="mb-2"><a href="#">Pages</a></li>
-								<li class="mb-2"><a href="#">Portfolio</a></li>
+								<li class="mb-2"><a href="https://bengen.medium.com/" target="_blank">Blog</a></li>
 								<li class="mb-2"><a href="demo-law-firm-2-about.html">About Us</a></li>
 								<li class="mb-0"><a href="demo-law-firm-2-contact.html">Contact Us</a></li>
 							</ul>

@@ -86,7 +86,7 @@ class NavBar extends HTMLElement {
 														<a href="demo-law-firm-2-case-study.html" class="nav-link">Case Study</a>
 													</li>
 													<li>
-														<a href="demo-law-firm-2-blog.html" class="nav-link">Blog</a>
+														<a href="https://bengen.medium.com/" target="_blank" class="nav-link">Blog</a>
 													</li>
 													<li>
 														<a href="demo-law-firm-2-contact.html" class="nav-link">Contact</a>
