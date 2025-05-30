@@ -13,13 +13,13 @@ class MyFooter extends HTMLElement {
 							</a>
 						</div>
 						<div class="col-lg-3 mb-5 mb-lg-0">
-							<h5 class="text-transform-none font-weight-bold text-color-light text-5-5 mb-4">Useful Links</h5>
+							<h5 class="text-transform-none font-weight-bold text-color-light text-5-5 mb-4">Sitemap</h5>
 							<ul class="list list-unstyled text-3-5 mb-0">
-								<li class="mb-2"><a href="#">Features</a></li>
-								<li class="mb-2"><a href="#">Pages</a></li>
-								<li class="mb-2"><a href="https://bengen.medium.com/" target="_blank">Blog</a></li>
 								<li class="mb-2"><a href="demo-law-firm-2-about.html">About Us</a></li>
-								<li class="mb-0"><a href="demo-law-firm-2-contact.html">Contact Us</a></li>
+								<li class="mb-2"><a href="services.html">Services</a></li>
+								<li class="mb-2"><a href="https://bengen.medium.com/" target="_blank">Blog</a></li>
+								<li class="mb-2"><a href="demo-law-firm-2-about.html">About</a></li>
+								<li class="mb-0"><a href="demo-law-firm-2-contact.html">Contact</a></li>
 							</ul>
 						</div>
 						<div class="col-lg-3 mb-5 mb-lg-0"></div>
