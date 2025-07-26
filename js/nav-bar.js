@@ -60,22 +60,25 @@ class NavBar extends HTMLElement {
 														<a href="demo-law-firm-2-about.html" class="nav-link">About</a>
 													</li>
 													<li class="dropdown">
-														<a href="demo-law-firm-2-practice-areas.html" class="dropdown-item dropdown-toggle">Practice Areas</a>
+														<a href="services.html" class="dropdown-item dropdown-toggle">Services</a>
 														<ul class="dropdown-menu border-radius-0">
 															<li>
-																<a href="demo-law-firm-2-practice-areas-detail.html" class="nav-link">Family Law</a>
+																<a href="services-ai.html" class="nav-link">AI/ML Enablement</a>
 															</li>
 															<li>
-																<a href="demo-law-firm-2-practice-areas-detail.html" class="nav-link">Capital Law</a>
+																<a href="services-bi.html" class="nav-link">BI & Dashboarding</a>
 															</li>
 															<li>
-																<a href="demo-law-firm-2-practice-areas-detail.html" class="nav-link">Business Law</a>
+																<a href="services-governance.html" class="nav-link">Data Governance & Quality</a>
 															</li>
 															<li>
-																<a href="demo-law-firm-2-practice-areas-detail.html" class="nav-link">Accident & Injury Law</a>
+																<a href="services-modeling.html" class="nav-link">Data Modeling</a>
 															</li>
 															<li>
-																<a href="demo-law-firm-2-practice-areas-detail.html" class="nav-link">Health Law</a>
+																<a href="services-roadmap.html" class="nav-link">Data Strategy & Roadmap</a>
+															</li>
+															<li>
+																<a href="services-elt.html" class="nav-link">ELT Pipeline Development</a>
 															</li>
 														</ul>
 													</li>
@@ -86,7 +89,7 @@ class NavBar extends HTMLElement {
 														<a href="demo-law-firm-2-case-study.html" class="nav-link">Case Study</a>
 													</li>
 													<li>
-														<a href="demo-law-firm-2-blog.html" class="nav-link">Blog</a>
+														<a href="https://bengen.medium.com/" target="_blank" class="nav-link">Blog</a>
 													</li>
 													<li>
 														<a href="demo-law-firm-2-contact.html" class="nav-link">Contact</a>
