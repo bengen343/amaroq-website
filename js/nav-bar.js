@@ -56,9 +56,6 @@ class NavBar extends HTMLElement {
 													<li>
 														<a href="index.html" class="nav-link active">Home</a>
 													</li>
-													<li>
-														<a href="demo-law-firm-2-about.html" class="nav-link">About</a>
-													</li>
 													<li class="dropdown">
 														<a href="services.html" class="dropdown-item dropdown-toggle">Services</a>
 														<ul class="dropdown-menu border-radius-0">
@@ -83,16 +80,7 @@ class NavBar extends HTMLElement {
 														</ul>
 													</li>
 													<li>
-														<a href="demo-law-firm-2-attorney.html" class="nav-link">Attorney</a>
-													</li>
-													<li>
-														<a href="demo-law-firm-2-case-study.html" class="nav-link">Case Study</a>
-													</li>
-													<li>
 														<a href="https://bengen.medium.com/" target="_blank" class="nav-link">Blog</a>
-													</li>
-													<li>
-														<a href="demo-law-firm-2-contact.html" class="nav-link">Contact</a>
 													</li>
 												</ul>
 											</nav>
