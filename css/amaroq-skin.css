@@ -6,23 +6,23 @@
 }
 /* Skin Colors */
 :root {
-	--primary: #AFEEEE; /* Pale Turquoise */
-  --primary-100: #9ee5e5;
-  --primary-200: #95dede;
-  --primary-300: #8ce7e7;
-  --primary--100: #b6f7f7;
-  --primary--200: #bdfafa;
-  --primary--300: #c4ffff;
-  --primary-rgba-0: rgba(175, 238, 238, 0);
-  --primary-rgba-10: rgba(175, 238, 238, 0.1);
-  --primary-rgba-20: rgba(175, 238, 238, 0.2);
-  --primary-rgba-30: rgba(175, 238, 238, 0.3);
-  --primary-rgba-40: rgba(175, 238, 238, 0.4);
-  --primary-rgba-50: rgba(175, 238, 238, 0.5);
-  --primary-rgba-60: rgba(175, 238, 238, 0.6);
-  --primary-rgba-70: rgba(175, 238, 238, 0.7);
-  --primary-rgba-80: rgba(175, 238, 238, 0.8);
-  --primary-rgba-90: rgba(175, 238, 238, 0.9);
+  --primary: #3ac2c2;
+  --primary-100: #57cbcb;
+  --primary-200: #73d3d3;
+  --primary-300: #8fdcdc;
+  --primary--100: #2c9393;
+  --primary--200: #216464;
+  --primary--300: #163636;
+  --primary-rgba-0: rgba(58, 194, 194, 1.0);
+  --primary-rgba-10: rgba(58, 194, 194, 0.9);
+  --primary-rgba-20: rgba(58, 194, 194, 0.8);
+  --primary-rgba-30: rgba(58, 194, 194, 0.7);
+  --primary-rgba-40: rgba(58, 194, 194, 0.6);
+  --primary-rgba-50: rgba(58, 194, 194, 0.5);
+  --primary-rgba-60: rgba(58, 194, 194, 0.4);
+  --primary-rgba-70: rgba(58, 194, 194, 0.3);
+  --primary-rgba-80: rgba(58, 194, 194, 0.2);
+  --primary-rgba-90: rgba(58, 194, 194, 0.1);
 
   --secondary: #DDA0DD; /* Plum */
   --secondary-100: #d193d1;
